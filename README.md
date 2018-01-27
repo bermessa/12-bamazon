@@ -7,5 +7,7 @@ In this activity, I have created an Amazon-like storefront with MySQL skills. Th
 
 [Watch the video to learn more!](https://youtu.be/8D3mU2DGHls)
 
+Since this is a command line app, be sure to clone the repo and run ```npm install```
+
 
 
